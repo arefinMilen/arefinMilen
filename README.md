@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript,React,GSAP**
 
-- 👯 I’m looking to collaborate on [HomeServiceBD](https://homeservicebd.netlify.app/)
+- 👯 I’m looking to collaborate on [E-Commerce_Landing_Page](https://arefin-shop-plant.netlify.app/)
 
 - 💬 Ask me about **react,gsap**
 
