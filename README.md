@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arefinmilen" alt="arefinmilen" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript,React,GSAP**
+- 🌱 I’m currently learning **TypeScript,Next JS,GSAP, MongoDB, Express, Node**
 
 - 👯 I’m looking to collaborate on [E-Commerce_Landing_Page](https://arefin-shop-plant.netlify.app/)
 
